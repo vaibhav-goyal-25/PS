@@ -1,0 +1,117 @@
+
+hr{
+  margin: 100px auto;
+  width: 5%;
+  height: 0;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #D3D3D3;
+}
+.top-container{
+  background-color: #E9F9F5;
+  position: relative;
+  margin-bottom: 50px;
+}
+a{
+  color: #11999E;
+}
+a:hover{
+  color:#EAF6F6;
+}
+h1{
+  margin: 0 auto 0 auto;
+  padding-top: 150px;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merienda One', cursive;
+}
+h2{
+  font-family: 'Galada', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+h3{
+  font-family: 'Galada', cursive;
+  color: #11999E;
+  font-size: 1.5rem;
+}
+.contact-me{
+  width:45%;
+  margin: auto;
+}
+
+.website-img{
+  height: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chilli-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile{
+  width: 40%;
+  margin: auto;
+}
+
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 100px;
+  line-height: 3;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.footer-link{
+  display: inline-block;
+  width:10%;
+}
+.btn {
+  margin-top: 40px;
+	box-shadow:inset 0 0 0 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
